@@ -21,4 +21,4 @@
 To keep the windscreen clean enough to give adequate view at all times. #WHEN The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
 
 # WHO:
-Mark Anderson invented on 1902
+Mark Anderson invented on 1902.
