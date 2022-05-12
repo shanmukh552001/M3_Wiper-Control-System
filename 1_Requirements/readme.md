@@ -35,24 +35,24 @@ Mark Anderson invented on 1902.
 | HL1-LL1				  | Push Button          |   Implemented      |
 | HL2-LL2         | Red,Green,Blue Leds  |   Implemented      |
 
-# SWOT ANALYSIS
+# SWOT ANALYSIS:
 # STRENGTH:
    * Low Budget
-     * Good Reputation
-     * High Bargaining Power Supliers
-     * Big Influence on the Market
+   * Good Reputation
+   * High Bargaining Power Supliers
+   * Big Influence on the Market
  # WEAKNESS:
  * Structural Inertia
-     * High Transaction Cost
-     * No Focus on Private Sector
-     * Week Focus on Process Innovations
+ * High Transaction Cost
+ * No Focus on Private Sector
+ * Week Focus on Process Innovations
   # OPPORTUNITES:
    * Emerging New Markets
-     * Technological Development
-     * Demand for Saver Equipments
-     * Technological Lock in of Product
+   * Technological Development
+   * Demand for Saver Equipments
+   * Technological Lock in of Product
   # THREATS:
    * Low Bargaining Power Buyers
-     * Highly REgulated Industry
-     * Ethical Pressure
-     * Econimical Crisis
+   * Highly REgulated Industry
+   * Ethical Pressure
+   * Econimical Crisis
