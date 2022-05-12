@@ -29,7 +29,7 @@ Mark Anderson invented on 1902.
 | HL2	    | Led glowing in sequence      |   Implemented      |
 | HL3		  | Car on and off               |   Implemented      |
 
-# LOW LEVEL REQUIREMENTS
+# LOW LEVEL REQUIREMENTS:
 | ID	            | Description          | Status |
 | -------------   | -------------        | ------ |
 | HL1-LL1				  | Push Button          |   Implemented      |
