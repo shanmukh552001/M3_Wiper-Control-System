@@ -3,3 +3,4 @@
 # Code quality score: ![Code quality score](https://api.codiga.io/project/33384/score/svg) 
 # Code Grade:  ![Code grade](https://api.codiga.io/project/33384/status/svg)
 # Build Linux:  [![Build-Linux](https://github.com/shanmukh552001/M3_Wiper-Control-System/actions/workflows/built%20on%20linux.yml/badge.svg)](https://github.com/shanmukh552001/M3_Wiper-Control-System/actions/workflows/built%20on%20linux.yml)
+# Cppcheck analysis: [![Cppcheck Analysis](https://github.com/shanmukh552001/M3_Wiper-Control-System/actions/workflows/Cppcheck%20Analyse.yml/badge.svg)](https://github.com/shanmukh552001/M3_Wiper-Control-System/actions/workflows/Cppcheck%20Analyse.yml) 
