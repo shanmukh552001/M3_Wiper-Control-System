@@ -8,5 +8,5 @@ handled. The driver needs to switch on and off the control stalk and it will red
 driving. Thus, this system is proposed to solve all these problems.In this project, there were two innovations reviewed as the literature review. The two were designed with different
 concept and operating mechanism however with same objective of working principle of the car wiper. The rain sensor
 was a highly versatile device for automatic wiping of vehicle windscreen when it is wet due to moisture, raindrops or
-even mud
+even mud 1
 
