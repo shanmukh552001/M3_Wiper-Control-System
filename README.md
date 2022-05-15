@@ -39,3 +39,7 @@
 
 ![168420965-11e6dd80-4a8c-450c-84f9-60529251751f](https://user-images.githubusercontent.com/102905328/168456320-ae5cff5f-bf8b-4eae-b1dc-ce22d8f27096.jpg)
 
+6.WIPER_SYSTEM 1
+
+
+![168320244-c6eb2349-efe1-480f-bcf4-4e64889b537f](https://user-images.githubusercontent.com/102905328/168475057-cc680b45-def4-42f6-8d36-5b2aa4319437.png)
